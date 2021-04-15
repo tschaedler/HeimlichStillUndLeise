@@ -1,0 +1,6 @@
+C:\Users\schaedler\source\repos\HeimlichStillUndLeise4\CheckInput\bin\Debug\CheckInput.dll
+C:\Users\schaedler\source\repos\HeimlichStillUndLeise4\CheckInput\bin\Debug\CheckInput.pdb
+C:\Users\schaedler\source\repos\HeimlichStillUndLeise4\CheckInput\obj\Debug\CheckInput.csprojAssemblyReference.cache
+C:\Users\schaedler\source\repos\HeimlichStillUndLeise4\CheckInput\obj\Debug\CheckInput.csproj.CoreCompileInputs.cache
+C:\Users\schaedler\source\repos\HeimlichStillUndLeise4\CheckInput\obj\Debug\CheckInput.dll
+C:\Users\schaedler\source\repos\HeimlichStillUndLeise4\CheckInput\obj\Debug\CheckInput.pdb
